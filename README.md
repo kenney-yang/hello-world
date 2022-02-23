@@ -8,5 +8,5 @@ Normally, you will have some stuff like a bio, or your Growhth Mindset stuff her
 
 ## Table of Contents
 
-[Class 01 Notes: Growth Mindset](class01.md)
-[Class 02 Notes: GitHub](class02.md)
+- [Class 01 Notes: Growth Mindset](class01.md)
+- [Class 02 Notes: GitHub](class02.md)
